@@ -72,4 +72,4 @@ Edit
 
 📎 [Stakeholder Report (PDF)](report/Bird_Species_Stakeholder_Report.pdf)  
 📓 [Python EDA Notebook](notebooks/bird_species_analysis_colab.ipynb)  
-🌐 [Streamlit Web App](#) _(Add URL if deployed)_
+🌐 [Streamlit Web App](#) 
