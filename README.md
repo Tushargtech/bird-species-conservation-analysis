@@ -1,7 +1,5 @@
 # 🐦 Bird Species Observation & Conservation Analysis
 
-![Dashboard Banner]("C:\Users\DELL\Desktop\Python\DATA Analytics\Bird Species Observation Analysis\dashboard\Screenshot dashoard.png")
-
 A complete biodiversity monitoring and conservation analysis project using Python, Power BI, and Streamlit based on bird species data from forest and grassland ecosystems.
 
 ---
